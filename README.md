@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chetan Seth</h1>
 <h3 align="center">A passionate Software Tester</h3>
 
-- 🔭 I’m currently working on **Manual Testing Project**
+- 🔭 I’m currently working on **UI Automation Project**
 
-- 🌱 I’m currently learning **Automation testing , Frameworks etc.**
+- 🌱 I’m currently learning **API testing , Rest Assured , etc.**
 
-- 💬 Ask me about **Java , Manual testing**
+- 💬 Ask me about **Java , Manual testing ,Selenium**
 
 - 📫 How to reach me **chetan.seth2015@gmail.com**
 
